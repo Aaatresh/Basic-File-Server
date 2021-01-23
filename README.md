@@ -4,4 +4,4 @@ This is a basic file server that has been created for the NodeMCU microcontrolle
 
 ![](https://circuits4you.com/wp-content/uploads/2018/01/esp8266-SPIFFS-file-system.jpg)
 
-(Image source: https://circuits4you.com/2018/01/31/example-of-esp8266-flash-file-system-spiffs/)
+(Image Source: https://circuits4you.com/2018/01/31/example-of-esp8266-flash-file-system-spiffs/)
