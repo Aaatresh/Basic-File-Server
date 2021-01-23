@@ -1,6 +1,6 @@
 # Basic-File-Server
 
-This is a basic file server that has been created for the Node-MCU microcontroller to perform file processing actions such as creation, copying and deletion. 
+This is a basic file server that has been created for the Node-MCU microcontroller to perform basic file processing actions such as creation, copying and deletion. 
 
 ![](https://circuits4you.com/wp-content/uploads/2018/01/esp8266-SPIFFS-file-system.jpg)
 
